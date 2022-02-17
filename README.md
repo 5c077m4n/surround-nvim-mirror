@@ -1,7 +1,7 @@
 ### NOTE:
 This is a mirror to the now missing [https://github.com/blackCauldron7/surround.nvim](https://github.com/blackCauldron7/surround.nvim)
 
-## surround.nvim
+# surround.nvim
 
 ## Features
 
